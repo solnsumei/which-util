@@ -1,2 +1,2 @@
 # Which Utility
-Which Utitlity built with go
+Which command line utility built with go
